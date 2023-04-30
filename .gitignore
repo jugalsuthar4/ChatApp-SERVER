@@ -1,0 +1,23 @@
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore the package-lock.json file
+package-lock.json
+
+# Ignore log files
+*.log
+
+# Ignore swap files
+*.swp
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore env files
+.env
+.env.development
+.env.production
+
+#ignore dist file
+
+dist/
